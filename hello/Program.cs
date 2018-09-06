@@ -11,6 +11,8 @@ namespace hello
         {
             //df
             Console.WriteLine("У, вай");
+            Console.ReadLine();
+            
         }
     }
 }
